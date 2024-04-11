@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "Portuguese");
-    int total = 0;
+
+    int total = 0, pares = 0;
     float media;
 
     for (int i = 0; i < 20; i++)
@@ -18,11 +19,15 @@ int main()
             cout << "Foi informado um número negativo!!" << endl;
             return 0;
         }
-        total += number;
+        if (number % 2 == 0)
+        {
+            pares++;
+            total += number;
+        }
     }
 
-    media = total / 20;
-    cout << "A sua média dos 20 valores é: " << media << endl;
+    media = total / pares;
+    cout << "A sua média dos pares é: " << media << endl;
 
     return 0;
 }

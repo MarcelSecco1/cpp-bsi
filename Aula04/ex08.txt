@@ -1,0 +1,4 @@
+Neste código fornecido, vemos que são loops e por meio deles são realizadas contas de multiplicação. 
+No primeiro, temos a inicialização e ele roda 2x, depois entra em outro que imprime os números que será realizado a tabúada.
+Após isso é realizada as contas e imprimidas pro usuário. Sendo as 4 primeiras do 2, do 3, do 4 e do 5. 
+Por fim, esse loop é repetido novamente devido ao primeiro for, fazendo que as contas da tabúada do 6,7,8 e 9.
