@@ -7,6 +7,6 @@ A ordem dos conteúdos está de acordo com o nível de dificuldade, ou seja, com
 - Aula 01 a 02: Lógicas simples, uso da sintaxe do C++;
 - Aula 03 a 04: Aumento de complexidade utilização de estruturas de condição;
 - Aula 04 a 06: Seguindo com o aumento, foi passado as estruturas de repetição;
-- Aula 07: Utilização do conteúdo visto com o incremento da manipulação de string;
-- Aula 08: Manipulação de Array simples, também conhecido como Vetor;
-- Aula 09: Seguindo com Array, mas agora de forma bidimensional, também conhecido como Matriz; 
+- Aula 07 e 08: Utilização do conteúdo visto com o incremento da manipulação de string;
+- Aula 09: Manipulação de Array simples, também conhecido como Vetor;
+- Aula 10: Seguindo com Array, mas agora de forma bidimensional, também conhecido como Matriz; 
