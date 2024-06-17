@@ -10,3 +10,6 @@ A ordem dos conteúdos está de acordo com o nível de dificuldade, ou seja, com
 - Aula 07 e 08: Utilização do conteúdo visto com o incremento da manipulação de string;
 - Aula 09: Manipulação de Array simples, também conhecido como Vetor;
 - Aula 10: Seguindo com Array, mas agora de forma bidimensional, também conhecido como Matriz; 
+- Aula 11: Primeiro contato com as structs do C++;
+- Aula 12: Utilização e criação de funções na programação estruturada;
+- Aula 13: Gravação de dados em um arquivo txt utilizando <fstream>;

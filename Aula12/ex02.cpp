@@ -5,9 +5,10 @@
 
 using namespace std;
 
-int tabuada(int number, int i)
+void tabuada(int number, int i)
 {
-    return i * number;
+    cout << number << " x " << i << " = " << i * number << endl;
+    return;
 }
 
 int main()
@@ -17,9 +18,10 @@ int main()
 
     cout << "Informe um número: ";
     cin >> number;
-    for (int i; i < 11; i++)
+
+    for (int i = 0; i < 11; i++)
     {
-        cout << number << " x " << i << " = " << tabuada(number, i);
+        tabuada(number, i);
     }
 
     return 0;
